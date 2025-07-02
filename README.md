@@ -1,2 +1,2 @@
 # cryptanalysis
-Random tools from my teen/ear tweenties.
+Random tools from my teen/early tweenties.
